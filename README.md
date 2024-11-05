@@ -37,3 +37,9 @@ npm init -y
 npm install -g .
 albumtracker
 ```
+
+Running will automatically fill up any entries with appropriate info: songs, artist, cover, etc.
+
+You do have to do this manually FOR NOW but feel free to hook this up to a server or something to make it fully automated
+
+setup app coming soon and maybe a full app?!?!
