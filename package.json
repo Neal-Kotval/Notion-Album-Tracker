@@ -1,0 +1,21 @@
+{
+  "name": "albumtracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^2.2.15",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2",
+    "prompt-sync": "^4.2.0"
+  },
+  "keywords": [],
+  "bin": {
+    "AlbumTracker": "main.js"
+  },
+  "description": ""
+}
